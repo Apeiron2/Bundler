@@ -1,0 +1,1 @@
+{"mappings":"ACCE","sources":["index.7db728d6.css","src/assets/scss/styles.scss"],"sourcesContent":[".content h2 {\n  color: #00f;\n}\n\n/*# sourceMappingURL=index.7db728d6.css.map */\n",".content {\r\n  h2 {\r\n    color: blue;\r\n  }\r\n}\r\n"],"names":[],"version":3,"file":"index.7db728d6.css.map"}
